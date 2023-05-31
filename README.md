@@ -1,6 +1,6 @@
 # quizapp
 
-A new Flutter project.
+A very Basis Flutter Quiz App built using flutter
 
 ## Getting Started
 
